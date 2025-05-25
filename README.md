@@ -52,7 +52,7 @@ python pose_tracker.py
 
 ---
 
-## 🛠 Planned Enhancements
+##  Planned Enhancements
 
 > Help make this project better by contributing!
 
