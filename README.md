@@ -1,23 +1,23 @@
-# 🧍‍♂️ Real-Time Pose Tracker with MediaPipe
+#  Real-Time Pose Tracker with MediaPipe
 
 Track human body joints in real time using your webcam and Google's [MediaPipe](https://google.github.io/mediapipe/solutions/pose). Perfect for pose analysis, fitness applications, gesture recognition, and more.
 
 ---
 
-## 🎯 Features
+##  Features
 
-- 📷 Real-time body joint detection via webcam
-- 🎨 Live skeleton overlay with FPS counter
-- 🧠 Access to 33 body landmarks (arms, legs, torso, face)
-- 🖥️ Clean and simple OpenCV GUI
-- 🧾 Modular code that can be extended for:
+-  Real-time body joint detection via webcam
+-  Live skeleton overlay with FPS counter
+-  Access to 33 body landmarks (arms, legs, torso, face)
+- 🖥 Clean and simple OpenCV GUI
+-  Modular code that can be extended for:
   - Pose classification
   - Exercise form feedback
   - Data logging for ML
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 Install the required packages:
 
@@ -31,7 +31,7 @@ Packages used:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Run the tracker using:
 
@@ -39,20 +39,20 @@ Run the tracker using:
 python pose_tracker.py
 ```
 
-📌 **Tip:** Press `ESC` to exit the live feed window.
+ **Tip:** Press `ESC` to exit the live feed window.
 
 ---
 
-## 📈 Example Use Cases
+##  Example Use Cases
 
-- 🏃‍♂️ Fitness coaching with pose feedback
-- 🤸 Motion analysis and research
-- 📹 Record and annotate exercise form
-- 🧠 Training data collection for ML models
+-  Fitness coaching with pose feedback
+-  Motion analysis and research
+-  Record and annotate exercise form
+-  Training data collection for ML models
 
 ---
 
-## 🛠️ Planned Enhancements
+## 🛠 Planned Enhancements
 
 > Help make this project better by contributing!
 
@@ -64,7 +64,7 @@ python pose_tracker.py
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 Developed with ❤️ using Python, OpenCV, and MediaPipe.
 
