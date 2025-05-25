@@ -9,7 +9,7 @@ Track human body joints in real time using your webcam and Google's [MediaPipe](
 -  Real-time body joint detection via webcam
 -  Live skeleton overlay with FPS counter
 -  Access to 33 body landmarks (arms, legs, torso, face)
-- 🖥 Clean and simple OpenCV GUI
+-  Clean and simple OpenCV GUI
 -  Modular code that can be extended for:
   - Pose classification
   - Exercise form feedback
