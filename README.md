@@ -66,12 +66,12 @@ python pose_tracker.py
 
 ##  Author
 
-Developed with ❤️ using Python, OpenCV, and MediaPipe.
+Developed with ♡ using Python, OpenCV, and MediaPipe.
 
 Feel free to fork, star, and contribute!
 
 ---
 
-## 📜 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
